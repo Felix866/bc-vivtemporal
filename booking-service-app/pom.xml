@@ -14,6 +14,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>booking-api-rest</module>
+        <module>booking-api-rest-controller</module>
         <module>booking-application</module>
         <module>booking-domain</module>
         <module>booking-infrastructure</module>

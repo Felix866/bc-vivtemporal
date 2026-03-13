@@ -5,20 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.tfg.temporal.holding</groupId>
-        <artifactId>bc-vivtemporal</artifactId>
+        <artifactId>user-service-app</artifactId>
         <version>1.0-SNAPSHOT</version>
-        <relativePath>../pom.xml</relativePath>
     </parent>
 
-    <artifactId>hosting-service-app</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>hosting-api-rest</module>
-        <module>hosting-api-rest-controller</module>
-        <module>hosting-application</module>
-        <module>hosting-domain</module>
-        <module>hosting-infrastructure</module>
-    </modules>
+    <artifactId>user-api-rest-controller</artifactId>
 
     <properties>
         <maven.compiler.source>25</maven.compiler.source>

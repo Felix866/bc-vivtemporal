@@ -100,6 +100,10 @@
         <module>user-service-app/user-application</module>
         <module>user-service-app/user-domain</module>
         <module>user-service-app/user-infrastructure</module>
+        <module>hosting-temporal-boot</module>
+        <module>booking-service-app/booking-api-rest-controller</module>
+        <module>hosting-service-app/hosting-api-rest-controller</module>
+        <module>hosting-service-app/hosting-api-rest-controller</module>
     </modules>
 
 </project>

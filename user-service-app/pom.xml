@@ -17,6 +17,7 @@
         <module>user-application</module>
         <module>user-domain</module>
         <module>user-infrastructure</module>
+        <module>user-api-rest-controller</module>
     </modules>
 
     <properties>
